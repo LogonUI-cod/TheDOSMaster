@@ -1,0 +1,54 @@
+##Welcome to THEDOSMASTER!##
+TheDOSMaster is the Windows 9x DOS and Ubuntu Terminal combined.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     ##WARNING#
+    Don't use this on a WIN9X system or else it will not run properly, it might corrupt DOS\HIMEM.SYS, DOS\AUTOEXEC.BAT, TERMINAL\INSTALL.PKG
+    Run the batch at your OWN RISK!
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    To install, Run setup.bat with /himem=60 /cpulevel={your level} /noerror /nodetect
+    if you don't run with /himem=60 your computer will be VERY SLOW!
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    This is the end of the TheDOSMaster Tutorial!
