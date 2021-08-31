@@ -15,7 +15,7 @@ TheDOSMaster is the Windows 9x DOS and Ubuntu Terminal combined.
 
 
                                                      ##WARNING#
-    Don't use this on a WIN9X system or else it will not run properly, it might corrupt DOS\HIMEM.SYS, DOS\AUTOEXEC.BAT, TERMINAL\INSTALL.PKG
+    Don't use this on a WIN9X system or else it will not run properly, it might corrupt DOS\HIMEM.SYS, DOS\AUTOEXEC.BAT, TERMINAL\pak
     Run the batch at your OWN RISK!
     
     
